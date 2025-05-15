@@ -23,7 +23,7 @@ export function Testimonials() {
             testimonial="Daniel Lopes, 30 anos"
           />
           <ItemTestimonials
-            text1="“A abordagem dela é incrível! Em pouco tempo, percebi mudanças significativas no meu bem-estar emocional."
+            text1="“A abordagem dele é incrível! Em pouco tempo, percebi mudanças significativas no meu bem-estar emocional."
             text2="O plano personalizado que ela criou para mim foi essencial para eu alcançar meus objetivos.”"
             testimonial="Lucas Mattos, 28 anos"
           />
