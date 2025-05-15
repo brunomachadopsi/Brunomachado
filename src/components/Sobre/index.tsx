@@ -33,7 +33,9 @@ export function Sobre(){
               <p className="leading-[140%] mb-2 text-sm">Sou especialista em <span className="font-medium">Neuropsicologia, Terapia Cognitivo-Comportamental (TCC), Abordagem Centrada na Pessoa, Coaching e Psicologia Clínica.</span> Minha missão é ajudar pessoas a superarem desafios emocionais, alcançarem autoconhecimento e viverem de forma mais equilibrada e significativa.</p>
               <p className="leading-[140%] mb-2 text-sm">Durante minha trajetória, desenvolvi uma abordagem com escuta analítica integrada, que une técnicas científicas e um olhar humanizado, sempre adaptado às necessidades únicas de cada pessoa. Seja para lidar com ansiedade, estresse, depressão ou para promover desenvolvimento pessoal.</p>
 
-              <p className="w-full max-w-[518px] leading-[140%] text-sm">Acredito que cada jornada é única e que, com o suporte certo, é possível transformar desafios em oportunidades de crescimento. <span className="font-medium">Vamos começar essa jornada juntos?</span></p>
+              <p className="w-full max-w-[590px] leading-[140%] text-sm mb-2">Acredito que cada jornada é única. Por isso, ofereço um suporte personalizado e um atendimento diferenciado, com disponibilidade 24 horas pelo WhatsApp. Com total prioridade aos meus pacientes, transformo desafios em oportunidades reais de crescimento.</p>
+              <p className="w-full max-w-[580px] leading-[140%] text-sm"> <span className="font-medium">Vamos começar essa jornada juntos?</span></p>
+
             </div>
             
             </div>
@@ -59,7 +61,7 @@ export function Sobre(){
                 alt="icone"
                 className="xl:w-[24px]"
               />
-              <p className="text-black font-normal text-base">100% ONLINE</p>
+              <p className="text-black font-normal text-base">SUPORTE 24 HORAS</p>
             </Badge>
             <Badge className="xl:w-[257px] w-[230px] h-[46px] bg-blue-light rounded-2xl gap-2 flex justify-center">
               <Image
