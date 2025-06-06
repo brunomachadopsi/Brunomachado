@@ -28,7 +28,7 @@ export function Testimonials() {
             testimonial="Lucas Mattos, 28 anos"
           />
           <ItemTestimonials
-            text1="“Nunca pensei que a terapia on-line pudesse ser tão eficaz. Ela conseguiu criar um ambiente acolhedor e seguro, mesmo à distância."
+            text1="“Nunca pensei que a terapia on-line pudesse ser tão eficaz. Ele conseguiu criar um ambiente acolhedor e seguro, mesmo à distância."
             text2="Sinto que estou finalmente no controle da minha vida.”"
             testimonial="Ana Paula, 40 anos"
           />
